@@ -1,16 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f9366ba-93f8-4289-81ab-62c599f4fb34" name="Changes" comment="" />
+    <list default="true" id="6424a75a-a8da-4fb8-bb26-9327d312ff65" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
+  "associatedIndex": 6
 }]]></component>
-  <component name="ProjectId" id="2bGkFao31ZKXTh2DtjiDd7av6j4" />
+  <component name="ProjectId" id="2bcfLgrPCpNFnPvSglt9mjvcWa6" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -18,7 +21,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/IU/Course Program/PROGRAMMING WITH PYTHON/Written Assignment/New folder2"
   }
 }]]></component>
   <component name="SharedIndexes">
